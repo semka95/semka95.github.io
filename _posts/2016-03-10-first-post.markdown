@@ -1,5 +1,5 @@
 ---
-title: Test post
+title: First post
 layout: post
 ---
 # Lorem #
